@@ -1,5 +1,5 @@
 # PRÁCTICA 2
-Repositorio de apps hechas en Swift.
+Repositorio de apps hechas en Swift, de la `GUÍA DE EJEMPLOS 3.pdf`.
 
 ## Estructura del repositorio
 
