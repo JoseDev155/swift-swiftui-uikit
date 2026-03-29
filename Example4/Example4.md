@@ -1,4 +1,4 @@
-# EJEMPLO 5
+# EJEMPLO 4
 
 Sexta app de iOS hecha en la Práctica 2.
 
